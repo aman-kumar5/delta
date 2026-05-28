@@ -1,0 +1,30 @@
+.d1,.d2,.d3,.d4{
+    width: 400px;
+    height: 200px;
+    border: 2px solid;
+}
+.d,.b{
+    display:flex;
+    margin: 30px;
+    gap: 30px ;
+    align-items: center;
+    justify-content: center;
+}
+.d1{
+    background-color: red;
+}
+.d2{
+    background-color:yellow ;
+}
+.d3{
+    background-color:rgb(0, 255, 0) ;
+}
+.d4{
+    background-color:blue;
+}
+.flash{
+    background-color: white;
+}
+.gflash{
+    background-color: green;
+}
